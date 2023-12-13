@@ -1,8 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 /* eslint-disable @typescript-eslint/no-explicit-any */
 'use client'
-import Link from 'next/link'
-import { IoPlayOutline } from 'react-icons/io5'
 import { useQuery } from '@tanstack/react-query'
 
 import CartMovie from '@molecules/cartMovie/cartMovie'
